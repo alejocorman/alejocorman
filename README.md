@@ -24,56 +24,60 @@ Mi especialización radica en diseñar, desarrollar e implementar soluciones de 
 ### Lenguajes y herramientas
 Lenguajes y herramientas utilizados en mi carrera profesional.
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="ChatGPT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg"/>
-<img align="left" alt="GitHub Copilot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubcopilot.svg"/>
-<br/>
+## 🛠️ Lenguajes y herramientas
+Tecnologías utilizadas a lo largo de mi carrera en Data Engineering, Analytics y BI.
 
-#### Lenguajes
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-<br/>
+### Lenguajes
+<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="SQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="R" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+<img align="left" alt="DAX" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/>
+<br clear="all"/>
 
-#### Data Engineering
-<img align="left" alt="Apache Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg"/>
-<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg"/>
-<img align="left" alt="Airflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg"/>
-<img align="left" alt="dbt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbt.svg"/>
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<br/>
+### Data Engineering & ETL
+<img align="left" alt="Apache Spark" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg"/>
+<img align="left" alt="PySpark" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg"/>
+<img align="left" alt="Databricks" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg"/>
+<img align="left" alt="Azure Data Factory" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredatafactory.svg"/>
+<img align="left" alt="Airflow" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg"/>
+<img align="left" alt="dbt" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbt.svg"/>
+<img align="left" alt="SSIS" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg"/>
+<img align="left" alt="Oracle ODI" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+<br clear="all"/>
 
-#### Cloud
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<br/>
+### Cloud & Data Platforms
+<img align="left" alt="Microsoft Azure" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+<img align="left" alt="Azure Synapse" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuresynapseanalytics.svg"/>
+<img align="left" alt="Azure Blob Storage" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftazure.svg"/>
+<img align="left" alt="Google Cloud" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+<img align="left" alt="BigQuery" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlebigquery.svg"/>
+<img align="left" alt="AWS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<br clear="all"/>
 
-#### Bases de datos y DWH
-<img align="left" alt="Snowflake" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snowflake.svg"/>
-<img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-<img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<br/>
+### Bases de datos & DWH
+<img align="left" alt="Snowflake" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snowflake.svg"/>
+<img align="left" alt="SQL Server" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<img align="left" alt="Oracle" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+<img align="left" alt="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="DB2" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibm.svg"/>
+<img align="left" alt="Netezza" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibm.svg"/>
+<br clear="all"/>
 
-#### BI & Analytics
-<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/>
-<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg"/>
-<img align="left" alt="Looker Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googledatastudio.svg"/>
-<br/>
+### BI & Analytics
+<img align="left" alt="Power BI" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/>
+<img align="left" alt="Tableau" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg"/>
+<img align="left" alt="Looker Studio" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googledatastudio.svg"/>
+<img align="left" alt="OBIEE" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/oracle.svg"/>
+<br clear="all"/>
 
-#### Dev & Gestión
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"/>
-<img align="left" alt="Azure DevOps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg"/>
-<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jira.svg"/>
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<br/>
+### Dev, CI/CD & Gestión
+<img align="left" alt="Linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"/>
+<img align="left" alt="Azure DevOps" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg"/>
+<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Jira" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jira.svg"/>
+<img align="left" alt="VS Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<br clear="all"/>
