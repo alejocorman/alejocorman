@@ -1,7 +1,6 @@
 # Sergio Correal
   ```
   Senior Data Engineer | Senior Data Visualization Engineer | Databricks & Snowflake
-
   ```
 Mi especialización radica en diseñar, desarrollar e implementar soluciones de datos que transforman las necesidades operativas en estrategias empresariales, utilizando un stack tecnológico avanzado para maximizar la eficiencia y precisión. Con experiencia en diversos sectores como telecomunicaciones, finanzas, energía, salud, minería, petróleo y administración pública, he liderado proyectos que han tenido un impacto directo en la toma de decisiones y en los resultados de negocio.
 
@@ -11,18 +10,14 @@ Mi especialización radica en diseñar, desarrollar e implementar soluciones de 
   <a href="https://www.linkedin.com/in/sergio-correal-8b9774186/">
     <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a> 
-  <a href="https://github.com/alejocorman">
-    <img alt="GitHub Profile" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/tuusuario?color=000000&logo=github&logoColor=white&style=for-the-badge&label=Follow"/>
-  </a>
   <a href="mailto:corman.alejo97@gmail.com">
     <img alt="Email Me" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/Gmail-Email-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="https://github.com/alejocorman">
+    <img alt="GitHub Profile" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/tuusuario?color=000000&logo=github&logoColor=white&style=for-the-badge&label=Follow"/>
+  </a>
 </p>
-
----
-
-### Lenguajes y herramientas
-Lenguajes y herramientas utilizados en mi carrera profesional.
+</br>
 
 ## 🛠️ Lenguajes y herramientas
 Tecnologías utilizadas a lo largo de mi carrera en Data Engineering, Analytics y BI.
@@ -80,3 +75,4 @@ Tecnologías utilizadas a lo largo de mi carrera en Data Engineering, Analytics 
 <img align="left" alt="Jira" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jira.svg"/>
 <img align="left" alt="VS Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <br clear="all"/>
+</br>
