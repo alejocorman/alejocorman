@@ -36,23 +36,22 @@ Tecnologías utilizadas a lo largo de mi carrera en Data Engineering, Analytics 
 <br clear="all"/>
 
 ### Data Engineering & ETL
-<img align="left" alt="Apache Spark"/>
-<img align="left" alt="PySpark"/>
-<img align="left" alt="Databricks"/>
 <img align="left" alt="Azure Data Factory" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img align="left" alt="Airflow" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg"/>
 <img align="left" alt="dbt" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbt.svg"/>
 <img align="left" alt="SSIS" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg"/>
 <img align="left" alt="Oracle ODI" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+<img align="left" alt="Apache Spark"/>
+<img align="left" alt="PySpark"/>
+<img align="left" alt="Databricks"/>
 <br clear="all"/>
 
 ### Cloud & Data Platforms
 <img align="left" alt="Microsoft Azure" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<img align="left" alt="Azure Synapse" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuresynapseanalytics.svg"/>
 <img align="left" alt="Azure Blob Storage" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftazure.svg"/>
 <img align="left" alt="Google Cloud" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 <img align="left" alt="BigQuery" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlebigquery.svg"/>
-<img align="left" alt="AWS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" alt="AWS"/>
 <br clear="all"/>
 
 ### Bases de datos & DWH
