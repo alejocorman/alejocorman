@@ -36,7 +36,7 @@ Tecnologías utilizadas a lo largo de mi carrera en Data Engineering, Analytics 
 <br clear="all"/>
 
 ### Data Engineering & ETL
-<img align="left" alt="Apache Spark" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg"/>
+<img align="left" alt="Apache Spark" width="32px" src=""/>
 <img align="left" alt="PySpark" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg"/>
 <img align="left" alt="Databricks" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg"/>
 <img align="left" alt="Azure Data Factory" width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredatafactory.svg"/>
