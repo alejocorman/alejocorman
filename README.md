@@ -31,7 +31,7 @@ and transformation to semantic modeling and executive-level visualization.
 ### 🔗 Live Demo 
 A public version of selected dashboards is available here:
 
-https://app.powerbi.com/reportEmbed?reportId=c12adf90-4229-4ed1-b8ce-faa18e8e2e5c&autoAuth=true&ctid=dd505be5-ec69-47f5-92df-caa55febf5fa
+<iframe title="Portafolio Data Sergio Correal" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c12adf90-4229-4ed1-b8ce-faa18e8e2e5c&autoAuth=true&ctid=dd505be5-ec69-47f5-92df-caa55febf5fa" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
