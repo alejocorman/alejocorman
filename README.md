@@ -18,21 +18,6 @@ Mi especialización radica en diseñar, desarrollar e implementar soluciones de 
   </a>
 </p>
 
---
-
-## 📊 Power BI Portfolio
-
-This repository showcases a selection of **real-world Business Intelligence projects** focused on
-data modeling, analytics, and decision-making dashboards.
-
-The projects demonstrate my experience designing **end-to-end BI solutions**, from data ingestion
-and transformation to semantic modeling and executive-level visualization.
-
-### 🔗 Live Demo 
-A public version of selected dashboards is available here:
-
-<iframe title="Portafolio Data Sergio Correal" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c12adf90-4229-4ed1-b8ce-faa18e8e2e5c&autoAuth=true&ctid=dd505be5-ec69-47f5-92df-caa55febf5fa" frameborder="0" allowFullScreen="true"></iframe>
-
 ---
 
 ## 🛠️ Lenguajes y herramientas
