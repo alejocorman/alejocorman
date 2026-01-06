@@ -17,7 +17,23 @@ Mi especialización radica en diseñar, desarrollar e implementar soluciones de 
     <img alt="GitHub Profile" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/tuusuario?color=000000&logo=github&logoColor=white&style=for-the-badge&label=Follow"/>
   </a>
 </p>
-</br>
+
+--
+
+## 📊 Power BI Portfolio
+
+This repository showcases a selection of **real-world Business Intelligence projects** focused on
+data modeling, analytics, and decision-making dashboards.
+
+The projects demonstrate my experience designing **end-to-end BI solutions**, from data ingestion
+and transformation to semantic modeling and executive-level visualization.
+
+### 🔗 Live Demo 
+A public version of selected dashboards is available here:
+
+https://app.powerbi.com/reportEmbed?reportId=c12adf90-4229-4ed1-b8ce-faa18e8e2e5c&autoAuth=true&ctid=dd505be5-ec69-47f5-92df-caa55febf5fa
+
+---
 
 ## 🛠️ Lenguajes y herramientas
 Tecnologías utilizadas a lo largo de mi carrera en Data Engineering, Analytics y BI.
